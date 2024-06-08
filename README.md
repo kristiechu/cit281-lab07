@@ -10,6 +10,6 @@
   - Part 5: Update and commit lab JavaScript file to practice with error handling
   - Part 6: Push your changes to GitHub
 
-## Error Handling Code Example
+## Github Example
 
 ![errorHandling](https://raw.githubusercontent.com/kristiechu/cit281-lab07/main/lab-07.png)
